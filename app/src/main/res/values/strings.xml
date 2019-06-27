@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">LiveDataCommunication</string>
+    <string name="value_is_updating">Value is Updating..</string>
+</resources>
